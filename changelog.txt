@@ -1,0 +1,7 @@
+v1.0.0
++ filter toggle
+# gui bugfixes and improvements
+# dropped x86 support
+
+v0.9.0
+initial release
